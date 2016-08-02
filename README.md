@@ -13,6 +13,7 @@
 ## Openbooks
 
 ## Articles
+2016.07.29 &emsp; [Kafka基础入门](article/2016-07-29-kafka-basic.md)
 
 
 
