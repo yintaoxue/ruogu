@@ -15,5 +15,6 @@
 ## Articles
 2016.07.29 &emsp; [Kafka基础入门](article/2016-07-29-kafka-basic.md)
 
+2014.09.14 &emsp; [开发工具及使用技巧](2014-09-14-coding-tools.md)
 
 
