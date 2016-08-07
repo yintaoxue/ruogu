@@ -7,20 +7,21 @@
 项目代码采用[Apache License Version 2.0](http://www.apache.org/licenses/)开源协议。
 
 ## Projects
-### 开源项目
 * [DataCleaner](https://github.com/yintaoxue/datacleaner) &emsp; 实时数据清洗框架
 
 * [Confre](https://github.com/yintaoxue/confre) &emsp; 基于zookeeper的配置管理工具
 
 * [Ziluo](https://github.com/yintaoxue/ziluo) &emsp; 对Solr和Elasticsearch的统一封装和管理工具
 
-### 示例项目
-以学习和使用开源框架为目的
-
+## Demos
 * [zk-service-cluster](project/ruogu/zk-service-cluster) &emsp; 基于zookeeper做分布式应用协调
 
-## OpenBooks
+## Books
 * [Kettle in Action](https://github.com/yintaoxue/kettle-in-action) &emsp; ETL工具Kettle的实用教程
+
+## Topics
+* [编程基础](topics/programming.md) 
+* [大数据]()
 
 ## Articles
 2016.07.29 &emsp; [Kafka基础入门](article/2016-07-29-kafka-basic.md)
