@@ -70,6 +70,13 @@ message set
 http://man7.org/linux/man-pages/man2/sendfile.2.html
 
 
+### API使用
+
+
+
+
+
+
 ### 思考
 1. 重启消费者客户端，消息的offset从什么地方开始？
 	

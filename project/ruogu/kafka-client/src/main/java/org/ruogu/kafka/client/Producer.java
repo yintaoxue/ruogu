@@ -27,8 +27,7 @@ public class Producer {
 		props.put("buffer.memory", 33554432);
 		props.put("key.serializer", "org.apache.kafka.common.serialization.StringSerializer");
 		props.put("value.serializer", "org.apache.kafka.common.serialization.StringSerializer");
-		props.put("partitioner.class", "org.ruogu.MyParitioner");
-
+		props.put("partitioner.class", "org.ruogu.kafka.client.MyParitioner");
 
 		KafkaProducer<String, String> producer = new KafkaProducer<String, String>(props);
 		for (int i = 0; i < 10; i++) {

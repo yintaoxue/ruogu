@@ -17,5 +17,6 @@
   <modules>
   	<module>zk-service-cluster</module>
     <module>kafka-client</module>
+    <module>hive</module>
   </modules>
 </project>

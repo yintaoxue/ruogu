@@ -1,6 +1,6 @@
 package org.ruogu.kafka.client;
 
-import kafka.producer.Partitioner;
+import org.apache.kafka.clients.producer.Partitioner;
 
 /**
  * MyParitioner
